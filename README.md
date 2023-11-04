@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Assistant Professor | A Passionate DevOps Engineer from India<br><br>- 🔭 I’m working as Assistant Professor</p>
+<p align="left">Assistant Professor | A Passionate DevOps Engineer from India<br><br>- 🔭 I’m working as Assistant Professor @ PSIT KANPUR </p>
 
 ###
 
